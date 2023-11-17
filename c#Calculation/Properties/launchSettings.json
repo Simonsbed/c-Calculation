@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "c#Calculation (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "c#Calculation (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
